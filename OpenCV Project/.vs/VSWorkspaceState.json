@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Debug\\OpenCV Project.tlog"
   ],
-  "SelectedNode": "\\image_test.cpp",
+  "SelectedNode": "\\OpenCV Project.vcxproj.filters",
   "PreviewInSolutionExplorer": false
 }
